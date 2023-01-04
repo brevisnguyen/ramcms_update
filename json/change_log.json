@@ -1,8 +1,8 @@
 {
-    "latestVersion": "123456",
+    "latestVersion": "v2023.1000.3052",
     "packageName": "ramcms_update",
     "change_log": [
-        "<strong>Nội dung cập nhật: v2023.1000.3051</strong>",
+        "<strong>Nội dung cập nhật: v2023.1000.3052</strong>",
         "1. Tối ưu hoá query",
         "2. Fix bug xss"
     ],
