@@ -3,8 +3,8 @@
     "packageName": "ramcms_update",
     "change_log": [
         "<strong>Nội dung cập nhật: v2023.1000.3052</strong>",
-        "1. Tối ưu hoá query",
-        "2. Fix bug xss"
+        "1. Cảm ơn bạn đã sử dụng RamCMS",
+        "2. Chức năng tự động cập nhật"
     ],
     "telegram": "https://t.me/+FPSDDbRPRuozNjZl",
     "githubRepo": "https://github.com/brevis-ng/ramcms"
