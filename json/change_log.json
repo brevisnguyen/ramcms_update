@@ -1,10 +1,9 @@
 {
-    "latestVersion": "v2023.1000.3052",
+    "latestVersion": "v2023.1000.3052.1",
     "packageName": "ramcms_update",
     "change_log": [
-        "<strong>Nội dung cập nhật: v2023.1000.3052</strong>",
-        "1. Cảm ơn bạn đã sử dụng RamCMS",
-        "2. Fix Chức năng tự động cập nhật"
+        "<strong>Nội dung cập nhật: v2023.1000.3052.1</strong>",
+        "1. Fix lỗi tuỳ chỉnh tiền tố bảng Vod"
     ],
     "telegram": "https://t.me/+FPSDDbRPRuozNjZl",
     "githubRepo": "https://github.com/brevis-ng/ramcms"
