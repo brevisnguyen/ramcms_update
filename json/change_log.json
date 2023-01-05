@@ -1,9 +1,9 @@
 {
-    "latestVersion": "2023.1000.3052.1",
+    "latestVersion": "2023.1000.3052.2",
     "packageName": "ramcms_update",
     "change_log": [
-        "<strong>Nội dung cập nhật: v2023.1000.3052.1</strong>",
-        "1. Fix lỗi tuỳ chỉnh tiền tố bảng Vod"
+        "<strong>Nội dung cập nhật: v2023.1000.3052.2</strong>",
+        "1. Thêm lọc thể loại crawl OPhim"
     ],
     "telegram": "https://t.me/+FPSDDbRPRuozNjZl",
     "githubRepo": "https://github.com/brevis-ng/ramcms"
